@@ -14,25 +14,6 @@ https://github.com/AliyevH/flask_template.git
 
 ```bash
 .
-├── Dockerfile
-├── README.md
-├── app
-│   ├── __init__.py
-│   ├── decorators.py
-│   ├── errors.py
-│   ├── models.py
-│   └── routes.py
-├── config.py
-├── requirements.txt
-├── service.py
-├── tests
-│   ├── pytest.ini
-│   └── test_other.py
-└── uwsgi.ini
-
-2 directories, 13 files
-```
-.
 ├── README.md
 ├── alembic
 │   ├── README
@@ -98,4 +79,4 @@ https://github.com/AliyevH/flask_template.git
         └── user_schema.py
 
 21 directories, 42 files
-
+```
